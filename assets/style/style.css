@@ -30,7 +30,7 @@ input {
     font-size: 11.7pt;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
     body {
         background-image: url("../images/mobile_background.jpeg");
     }
